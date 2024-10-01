@@ -1,0 +1,32 @@
+﻿<style > body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.quiz-item {
+    cursor: pointer;
+}
+
+.modal {
+    display: none;
+}
+
+.modal-header, .modal-footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+.modal-body {
+    padding: 15px;
+}
+
+.question {
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+</style >
